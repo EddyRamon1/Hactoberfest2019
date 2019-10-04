@@ -21,7 +21,7 @@ Hacktoberfest Classroom Project 2019
 
 ### Eddy
 [EddyRamon1](https://github.com/EddyRamon1/)
-> Yare Yare Daze
+> Anyone can write code computers can understand, but professionals can write code so humans can understand
 ---
 
 ### Matthew
