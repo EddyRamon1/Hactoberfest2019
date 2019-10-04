@@ -13,3 +13,8 @@ Hacktoberfest Classroom Project 2019
 [JeffHow](https://github.com/jeffhow/)
 > Simple doesn't always mean easy
 ---
+
+### Eddy
+[EddyRamon1](https://github.com/EddyRamon1/)
+> Yare Yare Daze
+---
