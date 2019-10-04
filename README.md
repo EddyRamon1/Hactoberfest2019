@@ -22,7 +22,7 @@ Hacktoberfest Classroom Project 2019
 ### Eddy
 [EddyRamon1](https://github.com/EddyRamon1/)
 > Yare Yare Daze
-=======
+---
 
 ### Matthew
 [Believedshelf2](https://github.com/believedshelf2/)
